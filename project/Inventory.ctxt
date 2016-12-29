@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Inventory()
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=s
+comment2.target=java.lang.String\ getDesc(java.lang.String)
+comment3.params=i
+comment3.target=void\ addItem(Item)
+numComments=4
